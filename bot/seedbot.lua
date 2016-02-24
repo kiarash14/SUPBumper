@@ -225,6 +225,7 @@ function create_config( )
     "all",
     "leave_ban",
     "admin"
+    "linkpv"
     },
     sudo_users = {100096055,tonumber(our_id)},--Sudo users
     disabled_channels = {},
@@ -245,7 +246,7 @@ Id Channel
 @Bumperch
 
 Group Support:
-https://telegram.me/joinchat/Bhf10QaYoGV6GALzhj9Tmw
+https://telegram.me/joinchat/Bhf10QaYoGWmcv8fumYyMA
 
 ]],
     help_text_realm = [[
@@ -315,7 +316,7 @@ ID Channel:
 @Bumperch
 
 Group Support:
-https://telegram.me/joinchat/Bhf10QaYoGV6GALzhj9Tmw
+https://telegram.me/joinchat/Bhf10QaYoGWmcv8fumYyMA
 ]],
     help_text = [[
 Bumper help list :
@@ -422,7 +423,7 @@ ID Channel:
 @Bumperch
 
 Group Support:
-https://telegram.me/joinchat/Bhf10QaYoGV6GALzhj9Tmw
+https://telegram.me/joinchat/Bhf10QaYoGWmcv8fumYyMA
 ]]
   }
   serialize_to_file(config, './data/config.lua')
