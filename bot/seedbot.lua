@@ -382,9 +382,6 @@ create/revoke your group link
 link
 returns group link
 
-linkpv
-send link in pv
-
 owner
 returns group owner id
 
